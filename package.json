@@ -1,0 +1,15 @@
+{
+  "name": "custom_ellipse",
+  "version": "1.0.0",
+  "description": "Exploring Grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manasvi",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-openui5": "^0.12.0"
+  }
+}
